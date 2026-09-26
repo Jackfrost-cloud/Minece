@@ -1,0 +1,8 @@
+{
+  "category.spotifyoverlay": "Spotify Overlay",
+  "key.spotifyoverlay.next": "Next track",
+  "key.spotifyoverlay.previous": "Previous track",
+  "key.spotifyoverlay.toggle_playback": "Play/Pause",
+  "key.spotifyoverlay.open": "Open Spotify",
+  "key.spotifyoverlay.toggle_hud": "Toggle HUD"
+}

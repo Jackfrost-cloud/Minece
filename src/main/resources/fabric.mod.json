@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "spotifyoverlay",
+  "version": "${version}",
+  "name": "Spotify Overlay",
+  "description": "Displays your current Spotify track and exposes simple playback controls from inside Minecraft.",
+  "authors": [
+    "Minece"
+  ],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.minece.spotifyoverlay.SpotifyOverlayMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "fabric": ">=0.92.2",
+    "minecraft": "~1.20.1"
+  }
+}
